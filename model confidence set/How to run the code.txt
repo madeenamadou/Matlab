@@ -1,0 +1,7 @@
+First, place all the mfiles in a Matlab folder 
+
+Then, Run mcs.m ; the code will ask to select the original data file HF_SPX.mat
+
+Once you import the data file HF_SPX.mat, the code will continue to run. You will have to wait, for quite a moment, until the end and the return of all the result
+
+All the results will be displayed.
